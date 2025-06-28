@@ -11,6 +11,7 @@ using WhiteLagoon.Domain.Entities;
 
 namespace WhiteLagoon.Infrastructure.Data
 {
+// esto es para el pull
     public class DbInitializer : IDbInitializer
     {
         private readonly UserManager<ApplicationUser> _userManager;
