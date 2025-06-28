@@ -27,4 +27,4 @@ create type tmoney from money NULL
 create type tv3 from VARCHAR(3) NULL
 create type tv1 from VARCHAR(1) NULL
 
--- Este es un proyecto solo para aprender la maestria de GitHub
+
