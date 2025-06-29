@@ -12,6 +12,7 @@ using WhiteLagoon.Domain.Entities;
 namespace WhiteLagoon.Infrastructure.Data
 {
 // esto es para el pull
+// esto es para el Merge Branch
     public class DbInitializer : IDbInitializer
     {
         private readonly UserManager<ApplicationUser> _userManager;
