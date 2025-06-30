@@ -11,7 +11,7 @@ go
 use bdCinema
 go
 drop table about-us
-drop table tDIMDate
+drop table tDIMDate -- a huge bug was found and fixed
 drop table temployeeHistory
 drop table tactorMovieList
 drop table tattendanceDetail
@@ -27,6 +27,8 @@ drop table tmovies
 drop table tfoodOrders
 drop table ttheaters
 drop table tcustomers
+drop table about-us
+
 -- anoteher comment in master
 
 
