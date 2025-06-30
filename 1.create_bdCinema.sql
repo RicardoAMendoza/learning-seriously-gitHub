@@ -10,6 +10,7 @@ go
 -- -----------------------------------------------------
 use bdCinema
 go
+drop table about-us
 drop table tDIMDate
 drop table temployeeHistory
 drop table tactorMovieList
@@ -26,7 +27,7 @@ drop table tmovies
 drop table tfoodOrders
 drop table ttheaters
 drop table tcustomers
-
+-- anoteher comment in master
 
 
 -- -----------------------------------------------------
