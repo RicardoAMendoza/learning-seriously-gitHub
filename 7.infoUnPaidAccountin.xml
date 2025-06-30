@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UnPaidAccounts>
+  <UnPaidAccount>
+    <commission>0.12</commission>
+    <overdraft>2000</overdraft>
+    <number>UA1UA1</number>
+    <type>UnpaidAccount</type>
+    <balance>2300</balance>
+    <openDay>8</openDay>
+    <openMonth>2</openMonth>
+    <openYear>2016</openYear>
+  </UnPaidAccount>
+</UnPaidAccounts>
