@@ -10,7 +10,7 @@
 
 use master
 go
-  -- BUG HAS BENN FIXED
+  -- BUG HAS BENN FIXED ALONG WITH ANOTHER BUG
 -- -----------------------------------------------------
 -- Data base 
 -- -----------------------------------------------------
